@@ -1,2 +1,2 @@
 # Fundalyze
-Decentralized Crowdfunding platform built by following Stephen Grider's solidity course on Udemy. For coding practice purposes only
+Decentralized Crowdfunding platform built following Stephen Grider's Ethereum/Solidity course on Udemy. Built with ReactJS, NextJS, Solidity, Hardhat and Semantic UI. For coding practice only.
